@@ -1,2 +1,6 @@
-v2 with this new txt based on v1
-v4 have fixed the BUG of v3, and add a tip.png for reset to the specific version
+v2 with this new txt based on v1;
+v4 which is based on v2 has fixed the BUG of v3 by reset version to v2 , 
+and we add a tip.png for v4;
+v5 find a misstake in the last line as we run the v5 of dev branch, 
+so we return back to the v4 of master branch and create a new branch 
+which named 'bug', then we change the descriptions of line 2 in this txt
