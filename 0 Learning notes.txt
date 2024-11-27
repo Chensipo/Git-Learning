@@ -1,0 +1,4 @@
+1. Download Git APP form https://git-scm.com/
+2. Learn the basic command of Git
+3. Sign up an account of Git-Hub on https://github.com/
+- If you can not log in the Git-Hub site, try to use VPN such as v2rayN APP
