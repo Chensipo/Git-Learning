@@ -1,0 +1,16 @@
+v5
+查看分支
+->git branch
+创建分支
+->git branch branch_name
+branch_name:
+	master --> 初始分支，用于公开的正式版本
+	dev --> 测试分支，主要用于开发新功能
+v5.1新增
+切换分支
+->git checkout branch_name
+合并分支：先切换主分支，再合并
+->git checkout master
+->git merge bug
+删除分支
+git branch -d bug
