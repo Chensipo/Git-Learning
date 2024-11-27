@@ -1,1 +1,2 @@
 v2 with this new txt based on v1
+v4 have fixed the BUG of v3, and add a tip.png for reset to the specific version
